@@ -1,5 +1,5 @@
 import openai
-openai.api_key=""
+openai.api_key="YOUR_OPENAI_KEY"
 
 def main(input_to_chatgpt,history):
     global res_content
